@@ -1,0 +1,35 @@
+{
+	"display": {
+		"icon": {
+			"id": "minecraft:player_head",
+			"components": {
+				"profile": {
+					"properties": [
+						{
+							"$comment": "Showing AgentEddie99 player head",
+							"name": "textures",
+							"value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MTQxNTIwMDEzOSwKICAicHJvZmlsZUlkIiA6ICJjMzViMzlmNWJkOTk0MjQ0OGI2MjRhNjk4ZjM3N2FlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBZ2VudEVkZGllOTkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzEyZmU1ZWNjNzljYWU1N2IxY2Q5MGEzMDcyM2ZmZjcxZDJhZTdjZjBmNjg2NThhMWIxNWYzYjFlNzVmOWViNSIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWVjOTMwY2RkMjYyOWM4NzcxNjU1YzYwZWViZWI4NjdiNGI2NTU5YjBlNmQzYmM3MWM0MGM5NjM0N2ZhMDNmMCIKICAgIH0KICB9Cn0="
+						}
+					]
+				}
+			}
+		},
+		"title": "AgentEddie99's Datapacks",
+		"frame": "challenge",
+		"description": [
+			"",
+			{
+				"text": "All loaded AgentEddie99's datapacks",
+				"color": "green"
+			}
+		],
+		"background": "minecraft:block/smooth_stone",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

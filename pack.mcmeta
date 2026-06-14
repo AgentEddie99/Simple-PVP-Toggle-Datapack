@@ -1,0 +1,11 @@
+{
+	"pack": {
+		"pack_format": 101.1,
+		"description": {
+			"text": "Simple way to enable and disable PVP across dimensions",
+			"color": "orange",
+			"text": "Author: AgentEddie99",
+			"color": "green"
+		}
+	}
+}

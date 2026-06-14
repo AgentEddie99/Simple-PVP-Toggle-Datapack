@@ -1,0 +1,54 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:diamond_sword"
+        },
+        "title": "Simple PVP Toggle",
+        "description": [
+            {
+                "text":"Simple way to Enable and disable PVP across dimensions. \n\n",
+                "color": "gold"
+            },
+            {
+                "text":"Enter",
+                "color":"green"
+            },
+            {
+                "text":" ",
+                "color":"gold"
+            },
+            {
+                "text":"/function simplepvptoggle:pvpenable ",
+                "color":"yellow"
+            },
+            {
+                "text":" to enable PVP \n\n",
+                "color":"gold"
+            },
+            {
+                "text":"Enter",
+                "color":"green"
+            },
+            {
+                "text":" ",
+                "color":"gold"
+            },
+            {
+                "text":"/function simplepvptoggle:pvpdisable ",
+                "color":"yellow"
+            },
+            {
+                "text":" to disable PVP",
+                "color":"gold"
+            }
+        ],
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "agenteddie99:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
